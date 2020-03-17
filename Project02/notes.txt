@@ -1,5 +1,0 @@
--- create database django02
--- CREATE USER 'django02'@'%' IDENTIFIED BY 'django02';
--- ALTER USER django02 IDENTIFIED WITH mysql_native_password BY 'django02';
--- GRANT ALL PRIVILEGES ON django02.* TO 'django02'@'%' with grant option;
--- GRANT ALL PRIVILEGES ON *.* TO 'django02'@'%' with grant option;
